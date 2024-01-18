@@ -104,29 +104,12 @@ Follow the procedure below
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch
-3. Commit your Changes
-4. Push to the Branch
-5. Open a Pull Request
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Varun Saini - [Linked in](https://www.linkedin.com/in/varun-sainii/)
 
 
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/varun-sainii
 [product-screenshot]: images/bug_tracker_login_ss.png
 [product-screenshot1]: images/bug_tracker_db_ss.png
 [product-screenshot2]: images/bug_tracker_open_ss.png
